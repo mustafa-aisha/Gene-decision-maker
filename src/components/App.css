@@ -1,0 +1,27 @@
+
+
+.container {
+  margin: 0 auto;
+  width: 40%;
+  
+}
+
+h4  {
+  color: black;
+  font-weight: bolder;
+}
+
+
+h3, li{
+  color: white;
+  font-weight: bolder;
+}
+
+
+@media (max-width: 767px) {
+  .container {
+    margin: 0 auto;
+    width: 85%;
+  }
+   
+}
